@@ -1,4 +1,4 @@
-#制作一个关于摩尔百分比计算器的GUI
+#制作一个关于摩尔百分比计算器的GUI1
 from tkinter import * #从tkinter库中导入所有定义
 import time
 class molarCaculator:
